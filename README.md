@@ -13,4 +13,4 @@ Machine learning projects using classification or regression algorithms
 Open source data science initiatives
 📫 Let's connect:
 LinkedIn: https://www.linkedin.com/in/deborshi-dey-20170b212/
-Email: daeizhere@gmail.com
+Email: daeizhere@gmail.com 
