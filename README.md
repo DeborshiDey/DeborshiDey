@@ -8,7 +8,7 @@ Pandas, NumPy, and SciPy for data analysis and manipulation
 
 Matplotlib and Seaborn for insightful data visualization
 
-SQL for efficient database management and querying
+SQL for efficient database management and querying 
 
 Statistical analysis and modeling techniques
 
