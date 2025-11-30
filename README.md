@@ -1,24 +1,18 @@
-Hello, I'm Deborshi Dey! 👋
-I am an aspiring data science student passionate about leveraging machine learning, statistics, and predictive modeling to solve real-world problems.
+# 💫 About Me:
+👋 Hello, I'm Deborshi Dey<br><br>I’m an aspiring data science student focused on applying machine learning, statistics, and predictive modeling to real-world problems. I enjoy working with data, uncovering patterns, and building practical solutions through analytical thinking. I also love trying new AI tools and exploring how they can enhance productivity and learning.<br><br>🔭 I’m currently working on<br><br>Strengthening my foundations in Python, data analysis, and statistical modeling while exploring hands-on machine learning projects.<br><br>🤝 I’m looking to collaborate on<br><br>Projects involving data analysis, visualization, machine learning, or predictive modeling—especially those built with Python and open-source workflows.<br><br>🫱 I’m looking for help with<br><br>Improving my project structure, model optimization approaches, and practical data-handling techniques.<br><br>🌱 I’m currently learning<br><br>Python for data science<br><br>Pandas, NumPy, SciPy<br><br>Matplotlib, Seaborn<br><br>SQL<br><br>Statistical analysis and modeling<br><br>💬 Ask me about<br><br>Python for analysis, beginner-friendly ML workflows, or my approach to learning new tools.<br><br>⚡ Fun fact<br><br>Small tweaks in preprocessing fascinate me—because they can completely shift a model’s performance.
 
-🧠 Currently Developing Skills In:
-Python for data science applications
 
-Pandas, NumPy, and SciPy for data analysis and manipulation
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daeizhere/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daeizhere@gmail.com) 
 
-Matplotlib and Seaborn for insightful data visualization
+# 💻 Tech Stack:
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DeborshiDey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DeborshiDey&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeborshiDey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-SQL for efficient database management and querying 
+---
+[![](https://visitcount.itsvg.in/api?id=DeborshiDey&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Statistical analysis and modeling techniques
-
-🤝 Open to Collaborations On:
-Data analysis and visualization projects using Python
-
-Machine learning and predictive modeling initiatives
-
-📫 Let's Connect:
-Feel free to reach out if you are interested in collaborating or discussing data science projects! 
-
-LinkedIn: https://www.linkedin.com/in/deborshi-dey-20170b212/   
-Email: daeizhere@gmail.com    
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
